@@ -15,3 +15,5 @@ Ist grad in Bearbeitung:
 - [  ]C++
 - [  ]C#
 - [  ]Haskell
+
+Falls ihr was brauch, solltet ihr jemand anderen fragen, weils mir vermutlich egal ist, oder ich einfach nicht online bin.
