@@ -6,12 +6,12 @@
 
 Ist grad in Bearbeitung:
 
-- []Bungeecord
+- [ ]Bungeecord
 - [x]Spigot
 - [x]Java
 - [x]Batch
-- []Python
-- []Lua
-- []C++
-- []C#
-- []Haskell
+- [ ]Python
+- [ ]Lua
+- [ ]C++
+- [ ]C#
+- [ ]Haskell
