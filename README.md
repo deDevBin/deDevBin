@@ -1,5 +1,7 @@
-#Kann nichts, macht nichts. \n
+#Kann nichts, macht nichts.
+
 [Für die Langeweiler, ist grad eh nichts los](https://discord.gg/y68H34qkZT)
+
 Ist grad in Bearbeitung:
 
 - []Bungeecord
