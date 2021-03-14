@@ -16,4 +16,4 @@ Ist grad in Bearbeitung:
 - [  ]C#
 - [  ]Haskell
 
-Falls ihr was brauch, solltet ihr jemand anderen fragen, weils mir vermutlich egal ist, oder ich einfach nicht online bin.
+Falls ihr was braucht, solltet ihr jemand anderen fragen, weils mir vermutlich egal ist, oder ich einfach nicht online bin.
