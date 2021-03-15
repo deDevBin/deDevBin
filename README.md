@@ -10,7 +10,7 @@ Ist grad in Bearbeitung:
 - [x]Spigot
 - [x]Java
 - [x]Batch
-- [  ]Python
+- [  ]Python[WIP]
 - [  ]Lua
 - [  ]C++
 - [  ]C#
