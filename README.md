@@ -7,9 +7,9 @@
 Ist grad in Bearbeitung:
 
 - [  ]Bungeecord
-- [x]Spigot
-- [x]Java
-- [x]Batch
+- [x] Spigot
+- [x] Java
+- [x] Batch
 - [  ]Python[WIP]
 - [  ]Lua
 - [  ]C++
