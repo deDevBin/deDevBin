@@ -6,14 +6,14 @@
 
 Ist grad in Bearbeitung:
 
-- [  ]Bungeecord
+- [ ] Bungeecord
 - [x] Spigot
 - [x] Java
 - [x] Batch
-- [  ]Python[WIP]
-- [  ]Lua
-- [  ]C++
-- [  ]C#
-- [  ]Haskell
+- [ ] Python[WIP]
+- [ ] Lua
+- [ ] C++
+- [ ] C#
+- [ ] Haskell
 
 Falls ihr was braucht, solltet ihr jemand anderen fragen, weils mir vermutlich egal ist, oder ich einfach nicht online bin.
