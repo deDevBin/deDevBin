@@ -8,7 +8,7 @@ Ist grad in Bearbeitung:
 - [x] Spigot
 - [x] Java
 - [x] Batch
-- [ ] Python[WIP]
+- [x] Python[WIP]
 - [ ] Lua
 - [ ] C++
 - [ ] C#
