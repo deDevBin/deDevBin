@@ -4,14 +4,6 @@
 
 Ist grad in Bearbeitung:
 
-- [ ] Bungeecord
-- [x] Spigot
-- [x] Java
-- [x] Batch
-- [x] Python[WIP]
-- [ ] Lua
-- [ ] C++
-- [ ] C#
-- [ ] Haskell
+- [ ] Tokensystem
 
 Falls ihr was braucht, solltet ihr jemand anderen fragen, weils mir vermutlich egal ist, oder ich einfach nicht online bin.
