@@ -2,7 +2,7 @@
 ### Der Name ist DevBin.
 ### Kann nichts, macht auch nichts.
 
-Ist grad in Bearbeitung:
+Ist grad in Arbeitung:
 
 - [ ] Tokensystem
 
