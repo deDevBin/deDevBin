@@ -1,6 +1,6 @@
 Ist grad in Arbeit:
 
 Discord Bot
-- [ ] Logging
+- [x] Logging
 - [ ] Reactionrollen
 - [ ] Channellock
